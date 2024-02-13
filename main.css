@@ -1,0 +1,44 @@
+.oculto {
+    display: none;
+}
+
+.fila-juego {
+    height: 25vh;
+}
+
+.cuadro {
+    border: 1px solid black;
+    opacity: 0;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.verde {
+    background-color: green;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
+.negro {
+    background-color: black;
+}
+
+.blanco {
+    background-color: white;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.gris {
+    background-color: darkgrey;
+}
+
+.columna-juego{
+    border: 1px solid black;
+}
